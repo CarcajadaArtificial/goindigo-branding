@@ -1,2 +1,6 @@
-# goindigo-branding
-Brandbook for goindigo.mx
+# goindigo Brand Book
+### Todo
+- [ ] Logo
+- [ ] Motto
+- [ ] Colors
+- [ ] Typography
