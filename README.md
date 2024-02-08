@@ -6,7 +6,15 @@
 
  ![Tux, the Linux mascot](/images/logo.svg)
 
+## Values
+
+- Open dialogue.
+- Right tools.
+- Design first.
+
 ## Motto
+
+- Candid conversations.
 
 ## Colors
 |Brand|Background|Primary|Secondary|
