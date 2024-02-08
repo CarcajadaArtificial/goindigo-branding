@@ -1,6 +1,14 @@
 # goindigo Brand Book
-### Todo
-- [ ] Logo
-- [ ] Motto
-- [ ] Colors
-- [ ] Typography
+
+## Logo
+- "go" Bold Italic
+- "indigo" Regular Italic
+
+## Motto
+
+## Colors
+
+## Typography
+- Main: EB Garamond
+- Base: Commit Mono
+
