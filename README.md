@@ -17,10 +17,10 @@
 - Candid conversations.
 
 ## Colors
-|Brand|Background|Primary|Secondary|
-|---|---|---|---|
-| `#504a94` | `#f9f8f7` | `#ebd3b5` | `#949494` |
-| ![#504a94](https://placehold.co/75x75/504a94/504a94.png) | ![#504a94](https://placehold.co/75x75/f9f8f7/f9f8f7.png) | ![#ebd3b5](https://placehold.co/75x75/ebd3b5/ebd3b5.png) | ![#ebd3b5](https://placehold.co/75x75/949494/949494.png) |
+|Brand|Background|Primary|Secondary|Text|
+|---|---|---|---|---|
+| `#504a94` | `#f9f8f7` | `#ebd3b5` | `#949494` | `#0A0A0B`|
+| ![#504a94](https://placehold.co/75x75/504a94/504a94.png) | ![#504a94](https://placehold.co/75x75/f9f8f7/f9f8f7.png) | ![#ebd3b5](https://placehold.co/75x75/ebd3b5/ebd3b5.png) | ![#ebd3b5](https://placehold.co/75x75/949494/949494.png) | ![#0A0A0B](https://placehold.co/75x75/0A0A0B/0A0A0B.png) |
 
 ## Typography
 - Main: [EB Garamond](https://github.com/CarcajadaArtificial/goindigo-branding/tree/7bde1a8af9157535ee2336f5bbf0886ef007330e/fonts/EB%20Garamond)
